@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bug report>
+<bug_report>
  	<ID>1</ID>
  	<Precondition>Be an authorized user</Precondition>
  	<Summary>Pay visa card</Summary>
@@ -7,7 +7,7 @@
  		<OS>"Windows 10 Version 21H2 (Build 19044.1706)</OS>
  		<Browser>YaBrowser/22.3.4.731</Browser>
  	</Environment> 
- 	<Steps to reproduce>
+ 	<Steps_to_reproduce>
 		<step 1>...</step 1>
 		<step 2>...</step 2>
 		<step 3>...</step 3>
@@ -16,10 +16,10 @@
 		<step 6>...</step 6>
 		<step 7>...</step 7>
 		<step 8>...</step 8>
-	</Steps to reproduce>		
+	</Steps_to_reproduce>		
  	<Priority>High</Priority>
  	<Severity>Critical</Severity>
- 	<Expected result>....</Expected result> 
- 	<Actual result>....</Actual result>
+ 	<Expected_result>....</Expected_result> 
+ 	<Actual_result>....</Actual_result>
  	<Attachment>-</Attachment>
-</bug report>
+</bug_report>
