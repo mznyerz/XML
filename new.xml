@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information_about_me>
+	<name>
+		<first>Andrey<first>
+		<last>Lapin</last>
+	</name>
+	<age>24</age>
+	<number of animals>1</number of animals>
+	<future salary>i hope 500$</future salary>
+</information_about_me>
