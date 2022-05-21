@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<favorites list>
-	<favorite film>Kaunis mieli (2001)</favorite film>
-	<favorite TV series>11.22.63 (2016)</favorite TV series>
-	<favorite food>Solyanka</favorite food>
-	<favorite time of year>Summer</favorite time of year>
-	<Visit the country>Spain</Visit the country>
-</favorites list>
+<favorites_list>
+	<favorite_film>Kaunis mieli (2001)</favorite_film>
+	<favorite_TV_series>11.22.63 (2016)</favorite_TV_series>
+	<favorite_food>Solyanka</favorite_food>
+	<favorite_time_of_year>Summer</favorite_time_of_year>
+	<Visit_the_country>Spain</Visit_the_country>
+</favorites_list>
