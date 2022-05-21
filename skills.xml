@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <skills>
- 	<hard skills>linux, sql, JS(basis), api(postman), structure:1.HTTPS(request/response) 2.JSON 3.XML, Desktop testing, Dev Tools, Mobile Testing, Jmeter, Charles, Fiddler, Android Studio
- 	</hard skills>
-	<soft skills>communication skill, emotional intelligence, critical thinking, creative thinking</soft skills>
+ 	<hard_skills>linux, sql, JS(basis), api(postman), structure:1.HTTPS(request/response) 2.JSON 3.XML, Desktop testing, Dev Tools, Mobile Testing, Jmeter, Charles, Fiddler, Android Studio
+ 	</hard_skills>
+	<soft_skills>communication skill, emotional intelligence, critical thinking, creative thinking</soft_skills>
 </skills>
